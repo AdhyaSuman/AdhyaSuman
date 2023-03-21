@@ -1,4 +1,3 @@
-[![MasterHead](https://news.crunchbase.com/wp-content/uploads/2017/07/market-research.gif)](https://adhyasuman.github.io)
 <h1 align="center">Hi 👋, I'm Suman Adhya</h1>
 <h3 align="center">Senior Research Fellow at the School of Mathematical & Computational Sciences (SMCS) in IACS.</h3>
 
