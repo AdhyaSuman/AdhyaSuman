@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Adhya</h1>
-<h3 align="center">Senior Research Fellow at the School of Mathematical & Computational Sciences (SMCS) in IACS.</h3>
+<h3 align="center">Research Associate Jobs at the School of Mathematical & Computational Sciences (SMCS) in IACS.</h3>
 
-- 🔭 I’m currently working on **Topic Modeling**
+- 🔭 I’m currently working on **Mechanistic Interpretability of LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdhyaSuman?tab=repositories](https://github.com/AdhyaSuman?tab=repositories)
 
