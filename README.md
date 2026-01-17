@@ -9,9 +9,3 @@
 
 - 📄 Know about my experiences [https://adhyasuman.github.io](https://adhyasuman.github.io/)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhyasuman&show_icons=true&locale=en&layout=compact" alt="adhyasuman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhyasuman&show_icons=true&locale=en" alt="adhyasuman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhyasuman&" alt="adhyasuman" /></p>
